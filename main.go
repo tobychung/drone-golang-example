@@ -4,7 +4,7 @@ import "fmt"
 
 // HelloWorld for hello world
 func HelloWorld() string {
-	return "Hello World, drone here!"
+	return "Hello World, drone ha!"
 }
 
 func main() {
